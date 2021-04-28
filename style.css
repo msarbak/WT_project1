@@ -1,0 +1,44 @@
+.paragraf{
+text-align: center;
+text-shadow: black;
+}
+h1{
+
+    text-align: center;
+}
+
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.profil {
+  border-radius: 50%;
+  width: 300px;
+  float: right;
+}
+.font {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.all {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all > h1, .madde {
+  margin: 10px;
+  padding: 5px;
+}
+
+.madde {
+  background: white;
+}
+
+.madde > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
