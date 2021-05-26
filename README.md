@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   Kendimi tanıtan web sitesi
+   <h1> <b>Kendimi Tanıtan Web Sitesi</b> </h1>
 </p>
 
 <p align="center">
